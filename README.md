@@ -1,6 +1,6 @@
 # DiagnoAce-Automated-Teeth-Segmentation-in-X-ray-Images
 
-The project focuses on presenting a thorough review of segmentation approaches for recognizing picture patterns in dental X-rays that have been published. The primary focus will be to segment the region of dental damage from the enamel and pulp region in the radiographs to identify dental caries and other damage. We believe that the transition from analog to digital radiography will furthermore simplify and accelerate the procedure while also facilitating picture storage, modification (brightness/contrast, image cropping, etc.), and retrieval. This document is intended for both the stakeholders and the developers of the project and will be proposed to the panel for its approval.
+The project focuses on presenting a thorough review of segmentation approaches for recognizing picture patterns in dental X-rays that have been published. The primary focus will be to segment the region of dental damage from the enamel and pulp region in the radiographs to identify dental caries and other damage. We believe that the transition from analog to digital radiography will furthermore simplify and accelerate the procedure while also facilitating picture storage, modification (brightness/contrast, image cropping, etc.), and retrieval.
 
 ## Methodology:
 
