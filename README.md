@@ -15,6 +15,6 @@ The overall proposed solution is described as follows:
 ●	Boundary-Based Segmentation
 3.	Application of state-of-the-art neural network architecture “U-Net” for a more precise and faster interpretation.
 4.	U-Net localizes and distinguishes the borders by doing classification on every pixel so that the input and the output share the same image size. 
-5.	Through U-Net we achieve semantic segmentation, which uses a fully convolutional network for the segmentation.
+5.	Through U-Net we achieve semantic segmentation, which uses a fully convolutional network for the segmentation (Used ReLU as the activation function).
 6.	The output itself is a high-resolution image (typically of the same size as the input image) in which each pixel is classified to a particular class. Thus it is pixel-level image classification.
 7.	Integration of the applied models into an interactive dashboard for a clearer Layman understanding.
